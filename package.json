@@ -2,7 +2,7 @@
   "name": "@f/parse-color",
   "description": "Parse a valid CSS color string into an array of [red, green, blue, alpha]",
   "repository": "git://github.com/micro-js/parse-color.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
